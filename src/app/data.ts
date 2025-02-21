@@ -47,15 +47,15 @@ export const data = [
                         ]
                     },
                     {
-                        "Id": 16,
+                        "Id": 7,
                         "Name": "Ranbeer",
                         "Teams": [
                             {
-                                "Id": 17,
+                                "Id": 8,
                                 "Name": "Ashish",
                                 "Teams": [
                                     {
-                                        "Id": 18,
+                                        "Id": 9,
                                         "Name": "Sweggar",
                                         "Teams": [],
                                         "TeamIds": [
@@ -64,8 +64,26 @@ export const data = [
                                         ]
                                     },
                                     {
-                                        "Id": 19,
+                                        "Id": 10,
                                         "Name": "Tarak maheta",
+                                        "Teams": [],
+                                        "TeamIds": [
+                                            "1",
+                                            "2"
+                                        ]
+                                    },
+                                    {
+                                        "Id": 11,
+                                        "Name": "Elvish",
+                                        "Teams": [],
+                                        "TeamIds": [
+                                            "1",
+                                            "2"
+                                        ]
+                                    },
+                                    {
+                                        "Id": 12,
+                                        "Name": "Dhruv Rathee",
                                         "Teams": [],
                                         "TeamIds": [
                                             "1",
